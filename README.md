@@ -20,11 +20,11 @@ I build thoughtful digital products that combine clean user experiences, reliabl
   <img src="https://img.shields.io/badge/Resume-View_Resume-2D3436?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="(https://www.linkedin.com/in/jasmankaur1904/)">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="(www.linkedin.com/in/jasmankaur1904/)" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="jasmanbal13@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
